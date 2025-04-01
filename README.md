@@ -1,15 +1,6 @@
-# ZaliczenieGit
-ZaliczenieGit-lab
-
-#Instalacja
-
-Instrukcje jak zainstalowac projekt na lokalnym komputrzerze.
-
-1.Zainsatluj zaleznosc ...
-
-## Przyklady uzycia
-
-jak uruchomic projekt
-
-```bash
-npm start
+# Prosta strona internetowa:
+#Nazwa repozytoriun: hello-world-web
+#Prosta strona internetowa
+##Instrukcja instalacji: pobrać plik i go uruchomić
+###Przykład użycia:
+    Zakupic hosting na stronie typu cba, wrzucic pliki
