@@ -1,13 +1,13 @@
-#Nazwa repoztorium: api-cli-fetcher
+# Nazwa repoztorium: api-cli-fetcher
 
 Opis projektu:
 Aplikacja CLI pobiera dane z API i zapisuje je w pliku JSON
 
 
-#Intrukcje instalacji i uruchomienia:
+# Intrukcje instalacji i uruchomienia:
 
 
-##Przykłady komend: 
+## Przykłady komend: 
 ./cli_fetcher
 --fetch
 --url
