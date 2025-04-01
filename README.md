@@ -11,5 +11,5 @@ Przykłady komend:
 ```--url
 ```https://api.example.com/data
 
-Możliwośc dodawania nowych źródeł
+#Możliwośc dodawania nowych źródeł
 Jakies napewno sa
