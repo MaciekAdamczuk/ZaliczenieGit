@@ -1,10 +1,10 @@
 # Prosta strona internetowa:
 
-##Nazwa repozytoriun: hello-world-web
+Nazwa repozytoriun: hello-world-web
 
-##Prosta strona internetowa
+Prosta strona internetowa
 
-##Instrukcja instalacji: pobrać plik i go uruchomić
+Instrukcja instalacji: pobrać plik i go uruchomić
 
-###Przykład użycia:
+Przykład użycia:
     Zakupic hosting na stronie typu cba, wrzucic pliki
