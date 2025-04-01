@@ -1,17 +1,15 @@
-# Prosta strona internetowa:
+#Nazwa repoztorium: api-cli-fetcher
 
-Nazwa repozytoriun: hello-world-web
+Opis projektu:
+Aplikacja CLI pobiera dane z API i zapisuje je w pliku JSON
 
-Prosta strona internetowa
+Intrukcje instalacji i uruchomienia:
 
-Instrukcja instalacji: pobrać plik i go uruchomić
+Przykłady komend: 
+```./cli_fetcher
+```--fetch
+```--url
+```https://api.example.com/data
 
-Przykład użycia:
-    Zakupic hosting na stronie typu cba, wrzucic pliki
-    
-Przykladowy kod:
-```
-<DOCKTYPE HTML>
-<body>
-    <h1>HELLO WORLD</h1>
-</body>
+Możliwośc dodawania nowych źródeł
+Jakies napewno sa
