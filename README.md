@@ -8,6 +8,7 @@ Instrukcja instalacji: pobrać plik i go uruchomić
 
 Przykład użycia:
     Zakupic hosting na stronie typu cba, wrzucic pliki
+    
 Przykladowy kod:
 ```
 <DOCKTYPE HTML>
