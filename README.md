@@ -8,10 +8,10 @@ Aplikacja CLI pobiera dane z API i zapisuje je w pliku JSON
 
 
 ## Przykłady komend: 
-./cli_fetcher
---fetch
---url
-https://api.example.com/data
+1. ./cli_fetcher
+2. --fetch
+3. --url
+4. https://api.example.com/data
 
 
 
